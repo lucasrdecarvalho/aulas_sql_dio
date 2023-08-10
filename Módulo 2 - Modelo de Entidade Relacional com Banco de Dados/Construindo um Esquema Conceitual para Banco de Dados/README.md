@@ -13,8 +13,7 @@ A mesma equipe avalia e executa os serviços;
 Os mecânicos possuem código, nome, endereço e especialidade;
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
-==============================================================================================
-==============================================================================================
+##
 
 Goal:
 Creates the conceptual scheme for the workshop context based on the provided narrative.
